@@ -28,4 +28,4 @@ To run this project, you will need:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/PostMaster.git
+   git clone https://github.com/Shoaib-Alyas/PostMaster.git
